@@ -2,7 +2,7 @@
 
 Lecture 1: 
 - What is Machine Learning, Supervised Learning, Unsupervised Learning, Deep Learning?
-- What is Classification, Regression, CLustering, Anomaly Detection?
+- What is Classification, Regression, Clustering, Anomaly Detection?
 
 Lecture 2: 
 - Example of Bad data visualization
