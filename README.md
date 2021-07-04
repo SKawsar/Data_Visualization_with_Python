@@ -22,3 +22,13 @@ Lecture 3:
 - How to set a title, xlabel and ylabel of a plot?
 - How to change the range of x and y axis?
 - How to rotate the x and y tick labels?
+
+Lecture 4:
+- How to create a new DataFrame?
+- How to create new column in a DataFrame?
+- What is slope?
+- What's the equation of a straight line?
+- Line plot
+- How to draw multiple line charts in the same figure?
+- How to change the color, linestyle and marker of a figure?
+- How to modify the legend of a figure?
