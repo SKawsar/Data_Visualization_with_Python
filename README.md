@@ -32,3 +32,9 @@ Lecture 4:
 - How to draw multiple line charts in the same figure?
 - How to change the color, linestyle and marker of a figure?
 - How to modify the legend of a figure?
+
+
+Lecture 5:
+- Scatter plot
+- Regression line
+- Pair plot
