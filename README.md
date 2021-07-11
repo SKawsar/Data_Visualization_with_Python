@@ -38,3 +38,8 @@ Lecture 5:
 - Scatter plot
 - Regression line
 - Pair plot
+
+Lecture 6:
+- Histogram
+- Distribution
+- ecdf (empirical cumulative distribution function)
