@@ -43,3 +43,11 @@ Lecture 6:
 - Histogram
 - Distribution
 - ecdf (empirical cumulative distribution function)
+
+Lecture 7:
+- Boxplot
+- Violinplot
+
+Lecture 8:
+- Time-series plot
+- Plotly visualization example using AutoVizWidget
